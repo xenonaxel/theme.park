@@ -1,6 +1,6 @@
 @media (min-width: 752px) {
     [class*="PageHeader-logoFull-"] {
-        content: url("/css/addons/radarr/radarr-4k-logo/radarr4k-v3.png");
+        content: url("/css/addons/radarr/radarr-4k-logo/radarr4k.png");
         margin-left: 15px;
         width: 120px;
         height: 40px;
@@ -27,6 +27,6 @@
 }
 
 .panel-header > img.logo {
-    content: url("/css/addons/radarr/radarr-4k-logo/radarr4k-v3.png");
+    content: url("/css/addons/radarr/radarr-4k-logo/radarr4k.png");
     width: auto;
 }
