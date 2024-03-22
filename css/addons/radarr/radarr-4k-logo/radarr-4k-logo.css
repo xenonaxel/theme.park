@@ -1,32 +1,20 @@
 @media (min-width: 752px) {
-    [class*="PageHeader-logoFull-"] {
-        content: url("/css/addons/radarr/radarr-4k-logo/radarr4k.png");
-        margin-left: 15px;
-        width: 40px;
-        height: 40px;
+    [class*="PageHeader-logo-"] {
+        content: url("/css/addons/radarr/radarr-4k-logo/radarr-4k.png");
     }
 }
 
 @media only screen and (max-width: 768px) {
     [class*="PageHeader-logo-"] {
-        width: 32px;
-        height: 32px;
-        margin-left: 0px;
-        content: url("/css/addons/radarr/radarr-4k-logo/radarr-v3-mobile.png");
+        content: url("/css/addons/radarr/radarr-4k-logo/radarr-4k.png");
     }
 }
 
 [class*="LoadingPage-logoFull-"] {
-    content: url("/css/addons/radarr/radarr-4k-logo/radarr4k-v3.png");
-    margin-top: 50px;
-    margin-right: auto;
-    margin-left: auto;
-    width: 40px;
-    height: 40px;
+    content: url("/css/addons/radarr/radarr-4k-logo/radarr-4k.png");
     opacity: 1;
 }
 
 .panel-header > img.logo {
-    content: url("/css/addons/radarr/radarr-4k-logo/radarr4k.png");
-    width: auto;
+    content: url("/css/addons/radarr/radarr-4k-logo/radarr-4k.png");
 }
