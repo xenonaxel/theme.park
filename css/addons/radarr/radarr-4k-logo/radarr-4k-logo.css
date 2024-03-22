@@ -2,7 +2,7 @@
     [class*="PageHeader-logoFull-"] {
         content: url("/css/addons/radarr/radarr-4k-logo/radarr4k.png");
         margin-left: 15px;
-        width: 120px;
+        width: 40px;
         height: 40px;
     }
 }
