@@ -35,7 +35,7 @@
       "readarr-darker": "https://theme-park.dev/css/addons/readarr/readarr-darker/readarr-darker.css?sha=45c9c626754240f84e58caf2f5f3a969"
     },
     "sonarr": {
-      "sonarr-4k-logo": "https://theme-park.dev/css/addons/sonarr/sonarr-4k-logo/sonarr-4k-logo.css?sha=0ddaba0f1bc2251865847b818b1b97db",
+      "sonarr-4k-logo": "https://theme-park.dev/css/addons/sonarr/sonarr-4k-logo/sonarr-4k-logo.css?sha=ee7e176b43815315623a3ac4b9b08eeb",
       "sonarr-4k-text-logo": "https://theme-park.dev/css/addons/sonarr/sonarr-4k-text-logo/sonarr-4k-text-logo.css?sha=7f395b22cef125a12546e16c1f0b8696",
       "sonarr-anime-blue-logo": "https://theme-park.dev/css/addons/sonarr/sonarr-anime-blue-logo/sonarr-anime-blue-logo.css?sha=77546c9357bca233ce72b0bbc1e2faf6",
       "sonarr-anime-blue-text-logo": "https://theme-park.dev/css/addons/sonarr/sonarr-anime-blue-text-logo/sonarr-anime-blue-text-logo.css?sha=ace9f9553c106aff893d28cf9f13225a",
@@ -399,7 +399,7 @@
     },
     "sonarr": {
       "addons": {
-        "sonarr-4k-logo": "https://theme-park.dev/css/addons/sonarr/sonarr-4k-logo/sonarr-4k-logo.css?sha=0ddaba0f1bc2251865847b818b1b97db",
+        "sonarr-4k-logo": "https://theme-park.dev/css/addons/sonarr/sonarr-4k-logo/sonarr-4k-logo.css?sha=ee7e176b43815315623a3ac4b9b08eeb",
         "sonarr-4k-text-logo": "https://theme-park.dev/css/addons/sonarr/sonarr-4k-text-logo/sonarr-4k-text-logo.css?sha=7f395b22cef125a12546e16c1f0b8696",
         "sonarr-anime-blue-logo": "https://theme-park.dev/css/addons/sonarr/sonarr-anime-blue-logo/sonarr-anime-blue-logo.css?sha=77546c9357bca233ce72b0bbc1e2faf6",
         "sonarr-anime-blue-text-logo": "https://theme-park.dev/css/addons/sonarr/sonarr-anime-blue-text-logo/sonarr-anime-blue-text-logo.css?sha=ace9f9553c106aff893d28cf9f13225a",
